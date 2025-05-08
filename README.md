@@ -30,6 +30,10 @@ To implement and demonstrate various material effects in Unreal Engine, includin
 6. **Save and Apply Material:**
    - Save the material.
    - Apply it to any mesh in the scene (like a sphere or cube) to preview the results.
+  
+     
+## Output
+
 
 ## Result
 Successfully implemented a material in Unreal Engine showcasing:
