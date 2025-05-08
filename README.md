@@ -34,6 +34,12 @@ To implement and demonstrate various material effects in Unreal Engine, includin
      
 ## Output
 
+![image](https://github.com/user-attachments/assets/903f240b-f9b7-4f2d-bf50-013ebebd7ea8)
+
+
+![image](https://github.com/user-attachments/assets/3aaea163-8335-42c9-af3c-46adac71cb00)
+
+
 
 ## Result
 Successfully implemented a material in Unreal Engine showcasing:
